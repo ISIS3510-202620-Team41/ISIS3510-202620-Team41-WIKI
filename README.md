@@ -3,4 +3,4 @@
 ## Platforms and subteams
 
 - Flutter (Juan Sebastián Avila and Maria Alejandra Sanabria)
-- Kotlin (Sebastián Vargas, Martin Leschhorn, Tomar Hernandez)
+- Kotlin (Sebastián Vargas, Martin Leschhorn, Tomas Hernandez)
